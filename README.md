@@ -6,4 +6,6 @@ This project is a part of online front end development course - freeCodeCamp
 -    User Story: I can search Wikipedia entries in a search box and see the resulting Wikipedia entries.
 -    User Story: I can click a button to see a random Wikipedia entry
 
-You can see how my project works here: http://codepen.io/PaulinaWanda/pen/VKkBQg
+You can see how my project works here: https://paulinawanda.github.io/Wikipedia-Viewer/index.html
+
+or here: http://codepen.io/PaulinaWanda/pen/VKkBQg
